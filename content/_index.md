@@ -1,5 +1,5 @@
 ---
-title: ✍️ Second Brain
+title: ✍️ Ashwin Blogs on Intresting Projects
 date: 2022-09-24
 toc: false
 
@@ -8,9 +8,9 @@ image:
   caption: NASA
 ---
 
-Welcome to the _Second Brain_ template!
+Welcome to the _My project site_ !
 
-The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
+The **Page will be for** starter  **personal notes** and **knowledge bases** in a future-proof way.
 
 - It is your second brain 🧠, stored in future-proof Markdown files 
 - Supports audio, video, images, math, code, [Mermaid](https://mermaid.live/) diagrams, and [much more](https://wowchemy.com/docs/content/writing-markdown-latex/)
